@@ -11,3 +11,12 @@ div h3 {
     color: aqua;
 }
 
+/* selector por clases */
+.texto {
+    color: green;
+}
+
+/* selector por id */
+#cebolla {
+    color: red;
+}
